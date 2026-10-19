@@ -1,0 +1,4 @@
+# dsh-billing-meter bundle patch: 把浏览器半边的计费读数插入 profile 的 loader 层栈。
+- insert:
+    - id: dsh-billing-meter
+      name: dsh-billing-meter
