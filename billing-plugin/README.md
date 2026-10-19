@@ -93,7 +93,7 @@ DeepSeek 官方的**峰谷（高峰/空闲）时段**自动切换单价。点开
 在 DSH 里 **设置 → 插件 → 安装**，粘贴本目录的绝对路径：
 
 ```
-C:\Users\jiang\Desktop\开发专家团\doc-edit-lab\billing-plugin
+
 ```
 
 本地目录安装的是 `link:` 软链，改完 `node scripts/build-client.mjs` 刷新页面即可，
